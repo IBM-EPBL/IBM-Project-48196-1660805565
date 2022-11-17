@@ -1,8 +1,8 @@
 
-Retail Store Stock Inventory Analytics
-Team ID: PNT2022TMID50558
+**Technology:** Retail Store Stock Inventory Analytics
+**Team ID:** PNT2022TMID50558
 
-Batch: B7 - 1A3E
+**Batch:** B7 - 1A3E
 
 **Team Leader:** Murugan A
 
@@ -12,11 +12,11 @@ Batch: B7 - 1A3E
    - Project Design & Planning
 
       - Ideation Phase
-         -[x]  Literature Survey
-         -[x]  Problem Statement
-         -[x] Empathy Map
-         -[x] Brainstorm
-         -[x]  Top 3 Ideas
+         [x] Literature Survey
+         [x] Problem Statement
+         [x] Empathy Map
+         [x] Brainstorm
+         [x]  Top 3 Ideas
          
       - Project Design Phase 1
 
